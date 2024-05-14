@@ -1,0 +1,1 @@
+# proyectManager-FirebaseHosting-MultiApps-AppScript
