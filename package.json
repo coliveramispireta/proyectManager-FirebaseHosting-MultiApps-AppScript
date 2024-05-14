@@ -1,0 +1,26 @@
+{
+  "name": "insumosregionales",
+  "version": "1.0.0",
+  "description": "InsumosRegionalesDilab",
+  "main": "index.js",
+  "scripts": {
+    "start": "live-server",
+    "test": "jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "none"
+  },
+  "author": "Carlos Olivera Mispireta",
+  "license": "ISC",
+  "dependencies": {
+    "firebase": "^10.9.0",
+    "jest": "^29.7.0",
+    "live-server": "^1.1.0",
+    "nodemon": "^3.1.0",
+    "prettier": "^3.2.5"
+  },
+  "devDependencies": {
+    "dotenv": "^16.4.5"
+  }
+}
